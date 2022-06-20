@@ -5,7 +5,7 @@ title: Making Camp Buddy Toolbox using PySimpleGUI
 subtitle: First GUI application that I made using Python and PySimpleGUI
 description: First GUI application that I made using Python and PySimpleGUI
 category: code
-image: ![](../assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/DxD1hLgUwAAo-Od.jpg)
+image: /assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/DxD1hLgUwAAo-Od.jpg
 tags:
   - code
 author: lonewanderer27
