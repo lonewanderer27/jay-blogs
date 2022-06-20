@@ -3,7 +3,7 @@ date: 2020-05-22
 layout: post
 title: I am a Tech-Nerd
 category: life
-image: /assets/img/2020-05-22-i-am-a-tech-nerd/100682803_1088491691536209_8776004218919059456_n.jpg
+image: ../assets/img/2020-05-22-i-am-a-tech-nerd/100682803_1088491691536209_8776004218919059456_n.jpg
 tags:
   - life
   - code
