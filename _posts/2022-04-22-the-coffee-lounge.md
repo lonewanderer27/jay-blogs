@@ -4,7 +4,7 @@ layout: post
 title: Introducing The Coffee Lounge™
 description: A five-star coffee shop, located in the heart of Metro Manila.
 category: life
-image: ![](../assets/img/2022-04-22-the-coffee-lounge/279094996_1581891715529535_8867864137325537511_n.jpg)
+image: assets/img/2022-04-22-the-coffee-lounge/279094996_1581891715529535_8867864137325537511_n.jpg
 tags:
   - life
 author: lonewanderer27

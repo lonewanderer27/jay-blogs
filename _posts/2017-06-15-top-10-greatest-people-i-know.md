@@ -4,7 +4,7 @@ layout: post
 title: Top 10 Greatest People I Know
 subtitle: Question 2 in my English Web Portfolio
 description: Question 2 in my English Web Portfolio
-image: ![](../assets/img/2017-06-15-top-10-greatest-people-i-know/wp-image-1182106555.webp)
+image: assets/img/2017-06-15-top-10-greatest-people-i-know/wp-image-1182106555.webp
 category: life
 tags:
   - life

@@ -4,7 +4,7 @@ layout: post
 title: My Coming Out Story
 category: lgbt+
 description: It has been 3-4 years since I discovered I was gay, it was a really hard time for me, but I think I'm ready to tell my story
-image: ![](../assets/img/2022-04-29-my-coming-out-story/278895151_1142410886554896_3058577843938228427_n.jpg)
+image: assets/img/2022-04-29-my-coming-out-story/278895151_1142410886554896_3058577843938228427_n.jpg
 tags:
   - life
   - lgbt+
