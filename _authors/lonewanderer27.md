@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/28822916.jpeg
+photo: src/img/uploads/28822916.jpeg
 name: lonewanderer27
 display_name: Jay
 position: Software Developer
