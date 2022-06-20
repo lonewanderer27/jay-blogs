@@ -5,7 +5,7 @@ title: I'm Gay. Nerd.
 subtitle: Ya'll, I'm part of the rainbow! 🏳️‍🌈
 description: Ya'll, I'm part of the rainbow! 🏳️‍🌈
 category: lgbt+
-image: /assets/img/2022-04-27-im-gay-nerd/279405975_1585282945190412_906502809197478862_n.jpg
+image: ../assets/img/2022-04-27-im-gay-nerd/279405975_1585282945190412_906502809197478862_n.jpg
 tags:
   - life
   - lgbt+
