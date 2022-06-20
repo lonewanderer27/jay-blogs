@@ -9,6 +9,6 @@ github_username: lonewanderer27
 facebook_username: jayayayayay
 twitter_username: ellewanderer27
 instagram_username: jay27_22
-# linkedin_username: linkedin_username
+linkedin_username: jay-puzon
 medium_username: adrianejames27
 ---
