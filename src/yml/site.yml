@@ -1,26 +1,25 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Jay Blogs
+title: Jay Blogs
+description: Jay Blogs is where I write my thoughts growing up as a software developer plus rants about sociatal issues.
 tags:
   - blog
-  - template
   - jekyll
-  - theme
   - netlify
+  - philippines
+  - software-developer
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Adriane James
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: adrianejames27@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: jay27_22
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id

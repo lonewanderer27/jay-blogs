@@ -1,46 +1,45 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Jay Blogs
+title: Jay Blogs
+description: Jay Blogs is where I write my thoughts growing up as a software developer plus rants about sociatal issues.
 tags:
   - blog
-  - template
   - jekyll
-  - theme
   - netlify
+  - philippines
+  - software-developer
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: Adriane James
     url: /about
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: adrianejames27@gmail.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: jay27_22
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+# formspree_form_id: formspree_form_id
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: lonewanderer27
+facebook_username: jayayayayay
+twitter_username: ellewanderer27
+instagram_username: jay27_22
+# linkedin_username: linkedin_username
+medium_username: adrianejames27
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
@@ -61,8 +60,8 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
-use_logo: false
+show_get_theme_btn: false
+use_logo: true
 
 # Content paginator
 paginate_content:

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: Adriane James
 description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/28822916.jpeg" alt="Adriane James" width="200">
 
-# About
+# About Me
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
