@@ -4,7 +4,7 @@ layout: post
 title: Should Old Friends and Days of Long Ago Should Be Forgotten?
 subtitle: Question 3 in my English Web Portfolio
 description: Question 3 in my English Web Portfolio
-image: /assets/img/2017-06-20-should-old-friends-be-forgotten/wp-image-40104958.webp
+image: ![](../assets/img/2017-06-20-should-old-friends-be-forgotten/wp-image-40104958.webp)
 category: life
 tags:
   - life
