@@ -62,7 +62,7 @@ function jekyll(done) {
 function server(done) {
   browserSync({
     server: {
-      baseDir: '_site'
+      baseDir: 'docs'
     }
   });
   done();
@@ -129,7 +129,7 @@ function mainJs() {
     .pipe(concat('scripts.min.js'))
     .pipe(plumber())
     .pipe(sourcemaps.write('.'))
-    .pipe(gulp.dest('_site/assets/js/'))
+    .pipe(gulp.dest('docs/assets/js/'))
     .pipe(browserSync.reload({ stream: true }))
     .pipe(gulp.dest('assets/js'));
 }
