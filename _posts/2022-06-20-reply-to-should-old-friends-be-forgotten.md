@@ -4,7 +4,7 @@ layout: post
 title: Reply to "Should Old Friends and Days of Long Ago Should Be Forgotten?"
 subtitle: A reply to my blog post way back in August 2017 titled "Should Old Friends and Days of Long Ago Should Be Forgotten?"
 description: A reply to my blog post way back in August 2017 titled "Should Old Friends and Days of Long Ago Should Be Forgotten?"
-image: ../assets/img/2022-06-20-reply-to-should-old-friends-be-forgotten/266273-e1647793648296-620x422.jpeg
+image: https://raw.githubusercontent.com/lonewanderer27/jay-blogs/master/assets/img/2022-06-20-reply-to-should-old-friends-be-forgotten/266273-e1647793648296-620x422.jpeg
 category: life
 tags:
   - life
