@@ -272,20 +272,11 @@ April 27, 2022
                         
                         
                             <li>
-                                <a href="/blog/my-first-blog-post/">
+                                <a href="/blog/the-quick-brown-fox-jumps-over-a-lazy-dog/">
                                     
-                                        <img src="https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg">
+                                        <img src="https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png">
                                     
-                                    <h3>Setting up my first blog website</h3>
-                                </a>
-                            </li>
-                        
-                            <li>
-                                <a href="/blog/my-coming-out-story/">
-                                    
-                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2022-04-29-my-coming-out-story/278895151_1142410886554896_3058577843938228427_n.jpg">
-                                    
-                                    <h3>My Coming Out Story</h3>
+                                    <h3>The quick brown fox jumps over a lazy dog</h3>
                                 </a>
                             </li>
                         
@@ -295,6 +286,15 @@ April 27, 2022
                                         <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/DxD1hLgUwAAo-Od.jpg">
                                     
                                     <h3>Making Camp Buddy Toolbox using PySimpleGUI</h3>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/blog/top-10-greatest-people-i-know/">
+                                    
+                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2017-06-15-top-10-greatest-people-i-know/wp-image-1182106555.webp">
+                                    
+                                    <h3>Top 10 Greatest People I Know</h3>
                                 </a>
                             </li>
                         
@@ -411,13 +411,14 @@ April 27, 2022
     function load_disqus()
     {
         disqus_loaded = true;
-        var disqus_shortname = 'jay27_22';
-        var disqus_title = '';
-        var disqus_url = '/the-coffee-lounge/';
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        var ldr = document.getElementById('disqus_loader');
+        this.page.url = '/the-coffee-lounge/';
+        this.page.identifier = 'jay-blogs';
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://jay-blogs.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
     };
     window.onscroll = function(e) {
         if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {

@@ -275,29 +275,29 @@ Then one day he told me he’s got crush on a girl, someone that is out of our c
                         
                         
                             <li>
-                                <a href="/blog/making-camp-buddy-toolbox-using-pysimplegui/">
-                                    
-                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2022-06-09-making-camp-buddy-toolbox-using-pysimplegui/DxD1hLgUwAAo-Od.jpg">
-                                    
-                                    <h3>Making Camp Buddy Toolbox using PySimpleGUI</h3>
-                                </a>
-                            </li>
-                        
-                            <li>
-                                <a href="/blog/the-quick-brown-fox-jumps-over-a-lazy-dog/">
-                                    
-                                        <img src="https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png">
-                                    
-                                    <h3>The quick brown fox jumps over a lazy dog</h3>
-                                </a>
-                            </li>
-                        
-                            <li>
                                 <a href="/blog/the-coffee-lounge/">
                                     
                                         <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2022-04-22-the-coffee-lounge/279094996_1581891715529535_8867864137325537511_n.jpg">
                                     
                                     <h3>Introducing The Coffee Lounge™</h3>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/blog/my-first-blog-post/">
+                                    
+                                        <img src="https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg">
+                                    
+                                    <h3>Setting up my first blog website</h3>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/blog/top-10-greatest-people-i-know/">
+                                    
+                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2017-06-15-top-10-greatest-people-i-know/wp-image-1182106555.webp">
+                                    
+                                    <h3>Top 10 Greatest People I Know</h3>
                                 </a>
                             </li>
                         
@@ -414,13 +414,14 @@ Then one day he told me he’s got crush on a girl, someone that is out of our c
     function load_disqus()
     {
         disqus_loaded = true;
-        var disqus_shortname = 'jay27_22';
-        var disqus_title = '';
-        var disqus_url = '/my-coming-out-story/';
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        var ldr = document.getElementById('disqus_loader');
+        this.page.url = '/my-coming-out-story/';
+        this.page.identifier = 'jay-blogs';
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://jay-blogs.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
     };
     window.onscroll = function(e) {
         if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {

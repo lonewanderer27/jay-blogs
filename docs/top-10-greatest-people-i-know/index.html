@@ -330,29 +330,29 @@ June 15, 2017
                         
                         
                             <li>
-                                <a href="/blog/i-am-a-tech-nerd/">
-                                    
-                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2020-05-22-i-am-a-tech-nerd/100682803_1088491691536209_8776004218919059456_n.jpg">
-                                    
-                                    <h3>I am a Tech-Nerd</h3>
-                                </a>
-                            </li>
-                        
-                            <li>
-                                <a href="/blog/should-old-friends-be-forgotten/">
-                                    
-                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2017-06-20-should-old-friends-be-forgotten/wp-image-40104958.webp">
-                                    
-                                    <h3>Should Old Friends and Days of Long Ago Should Be Forgotten?</h3>
-                                </a>
-                            </li>
-                        
-                            <li>
                                 <a href="/blog/reply-to-should-old-friends-be-forgotten/">
                                     
                                         <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2022-06-20-reply-to-should-old-friends-be-forgotten/266273-e1647793648296-620x422.jpeg">
                                     
                                     <h3>Reply to "Should Old Friends and Days of Long Ago Should Be Forgotten?"</h3>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/blog/my-coming-out-story/">
+                                    
+                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2022-04-29-my-coming-out-story/278895151_1142410886554896_3058577843938228427_n.jpg">
+                                    
+                                    <h3>My Coming Out Story</h3>
+                                </a>
+                            </li>
+                        
+                            <li>
+                                <a href="/blog/the-coffee-lounge/">
+                                    
+                                        <img src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/2022-04-22-the-coffee-lounge/279094996_1581891715529535_8867864137325537511_n.jpg">
+                                    
+                                    <h3>Introducing The Coffee Lounge™</h3>
                                 </a>
                             </li>
                         
@@ -469,13 +469,14 @@ June 15, 2017
     function load_disqus()
     {
         disqus_loaded = true;
-        var disqus_shortname = 'jay27_22';
-        var disqus_title = '';
-        var disqus_url = '/top-10-greatest-people-i-know/';
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        var ldr = document.getElementById('disqus_loader');
+        this.page.url = '/top-10-greatest-people-i-know/';
+        this.page.identifier = 'jay-blogs';
+        (function() { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://jay-blogs.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+        })();
     };
     window.onscroll = function(e) {
         if ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight - 800)) {
