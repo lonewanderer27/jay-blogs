@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/28822916.jpeg" alt="Adriane James" width="200">
+<img class="img-rounded" src="https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/assets/img/uploads/28822916.jpeg" alt="Adriane James" width="200">
 
 # About Me
 

@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/28822916.jpeg
+photo: https://raw.githubusercontent.com/lonewanderer27/blog/master/assets/img/uploads/28822916.png
 name: lonewanderer27
 display_name: Jay
 position: Software Developer
