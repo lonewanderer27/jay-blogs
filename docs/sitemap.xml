@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>/jay-blogs/404.html</loc>
+            <loc>/blog/404.html</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -10,7 +10,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/about/</loc>
+            <loc>/blog/about/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -18,7 +18,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/blog/</loc>
+            <loc>/blog/category/blog/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -26,7 +26,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/boyslove/</loc>
+            <loc>/blog/category/boyslove/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -34,7 +34,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/code/</loc>
+            <loc>/blog/category/code/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -42,7 +42,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/contact/</loc>
+            <loc>/blog/contact/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -50,7 +50,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/css/</loc>
+            <loc>/blog/category/css/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -58,7 +58,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/diet/</loc>
+            <loc>/blog/category/diet/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -66,7 +66,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/feed.xml</loc>
+            <loc>/blog/feed.xml</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -74,7 +74,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/</loc>
+            <loc>/blog/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -82,7 +82,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/kdrama/</loc>
+            <loc>/blog/category/kdrama/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -90,7 +90,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/lgbt+/</loc>
+            <loc>/blog/category/lgbt+/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -98,7 +98,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/life/</loc>
+            <loc>/blog/category/life/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -106,7 +106,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/contact/message-sent/</loc>
+            <loc>/blog/contact/message-sent/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -114,7 +114,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/music/</loc>
+            <loc>/blog/category/music/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -122,7 +122,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/assets/css/preview.css</loc>
+            <loc>/blog/assets/css/preview.css</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -130,7 +130,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/search.json</loc>
+            <loc>/blog/search.json</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -138,7 +138,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/sitemap.xml</loc>
+            <loc>/blog/sitemap.xml</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -146,7 +146,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/staff/</loc>
+            <loc>/blog/staff/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -154,7 +154,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/assets/css/styles.css</loc>
+            <loc>/blog/assets/css/styles.css</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -162,7 +162,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/tags/</loc>
+            <loc>/blog/tags/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -170,7 +170,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/tips/</loc>
+            <loc>/blog/category/tips/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -178,7 +178,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/travel/</loc>
+            <loc>/blog/category/travel/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -186,7 +186,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/tutorial/</loc>
+            <loc>/blog/category/tutorial/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -194,7 +194,7 @@
         </url>
     
         <url>
-            <loc>/jay-blogs/category/work/</loc>
+            <loc>/blog/category/work/</loc>
             
                 <changefreq>monthly</changefreq>
                 <priority>0.5</priority>
@@ -203,70 +203,70 @@
     
     
         <url>
-            <loc>/jay-blogs/reply-to-should-old-friends-be-forgotten/</loc>
+            <loc>/blog/reply-to-should-old-friends-be-forgotten/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2022-06-20</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/my-first-blog-post/</loc>
+            <loc>/blog/my-first-blog-post/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2022-06-20</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/im-gay-nerd/</loc>
+            <loc>/blog/im-gay-nerd/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2022-04-28</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/my-coming-out-story/</loc>
+            <loc>/blog/my-coming-out-story/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2022-04-27</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/the-coffee-lounge/</loc>
+            <loc>/blog/the-coffee-lounge/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2022-04-27</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/making-camp-buddy-toolbox-using-pysimplegui/</loc>
+            <loc>/blog/making-camp-buddy-toolbox-using-pysimplegui/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-06-09</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/i-am-a-tech-nerd/</loc>
+            <loc>/blog/i-am-a-tech-nerd/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2020-05-22</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/the-quick-brown-fox-jumps-over-a-lazy-dog/</loc>
+            <loc>/blog/the-quick-brown-fox-jumps-over-a-lazy-dog/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2018-10-09</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/should-old-friends-be-forgotten/</loc>
+            <loc>/blog/should-old-friends-be-forgotten/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2017-06-20</lastmod>
         </url>
     
         <url>
-            <loc>/jay-blogs/top-10-greatest-people-i-know/</loc>
+            <loc>/blog/top-10-greatest-people-i-know/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>
             <lastmod>2017-06-15</lastmod>
@@ -274,13 +274,13 @@
     
     
         <url>
-            <loc>/jay-blogs/authors/lonewanderer27/</loc>
+            <loc>/blog/authors/lonewanderer27/</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
     
         <url>
-            <loc>/jay-blogs/authors/thiagorossener/</loc>
+            <loc>/blog/authors/thiagorossener/</loc>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
